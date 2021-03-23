@@ -50,8 +50,8 @@ const freqMap = {
 }
 
 function randomPattern() {
- // const arrayLength = 10;
-  const arrayLength = Math.floor(Math.random() * 5) + 3; //array size is random from 3-5
+  const arrayLength = 3; //to keep the game short for now
+ // const arrayLength = Math.floor(Math.random() * 5) + 3; //array size is random from 3-5
   for(let i=0; i<arrayLength; i++){
     pattern.push(Math.floor(Math.random() * 10) + 1);
   }

@@ -44,6 +44,10 @@ Here's a walkthrough of implemented user stories:
 ![](walkthrough_part1.gif)
 
 
+![](walkthrough_part2.gif)
+
+
+
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 

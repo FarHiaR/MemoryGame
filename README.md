@@ -39,11 +39,13 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+PART 1 (Lose game)
 
 
 ![](walkthrough_part1.gif)
 
 
+PART 2 (Win game)
 ![](walkthrough_part2.gif)
 
 
